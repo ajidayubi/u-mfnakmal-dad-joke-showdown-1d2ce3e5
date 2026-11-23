@@ -4,6 +4,8 @@
 The joke is a short dinner-table exchange a father would actually tell:
 he announces a band, his wife doubts it, and the punchline lands on a
 single clean pun at the very end. Written fresh for this bounty.
+The pun turns on "reheated hits": leftovers, reheated — the band's whole
+setlist is yesterday's food, and the joke never says so outright.
 """
 import os
 
